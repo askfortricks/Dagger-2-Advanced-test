@@ -1,4 +1,4 @@
 1. Achievement first is we have injected the RandomUsersApi into MainActivityNew
   without any new keyboard.
 
-2.
+2.Solved Some minor issue due to response changed in random api.
